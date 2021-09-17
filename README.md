@@ -9,7 +9,7 @@
 When the word scramble game is run, a title screen will appear instructing the
 player to "Click to scramble". Upon this click, the player will be taken to a
 rule room that specifies to drag and drop letters to create a word, and press
-enter when they are done.After pressing enter, user is taken to the puzzle room 
+enter when they are done. After pressing enter, user is taken to the puzzle room 
 where they are given an empty board at the bottom of the screen and an
 assortment of scrambled letters at the top of the screen that they must drag
 and drop into the empty board to spell a word. If the board is left blank, the user
