@@ -40,6 +40,4 @@ over another, it drags both letters squished together, but does not happen every
                   Wrote the code for the tweens for the animation of those
                           screens including the fade in of the empty board.
 
-* Vidal Martinez: Created Sprites for the letters to be scrambled.
-                  Wrote the code for randomizing the letters, drag and drop of
-                                 and storing of letters in the empty board.
+* Vidal Martinez: Created character objects and sprites for the letters. Wrote code to create instances and randomly place letters on board. Wrote code for drag and drop left mouse button events with ability to store characters and remove characters from the submit able string.
